@@ -159,11 +159,11 @@ worlds:
 
 server:
     #Database Configuration
-    DB_URL_FORMAT: "jdbc:mysql://%s:3306/cosmic" # If the docker ENV for DB_HOST is anything but "db", this string format should be changed from 3306 to 3307 (or whichever port it was changed to in docker) 
-    DB_HOST: "localhost" 
-    DB_USER: "root"
-    DB_PASS: ""
-    INIT_CONNECTION_POOL_TIMEOUT: 90    # Seconds
+    DB_URL_FORMAT: "jdbc:mysql://%s:3306/Cosmic"
+    DB_HOST: "localhost"
+    DB_USER: "mew"
+    DB_PASS: "mewmew1314."
+    INIT_CONNECTION_POOL_TIMEOUT: 90 # Seconds
 
     #Login Configuration
     WORLDS: 1                           #Initial number of worlds on the server.
@@ -196,9 +196,9 @@ server:
     LOGIN_ATTEMPT_DURATION: 120         #Period in seconds the login attempt remains registered on the system.
 
     #Ip Configuration
-    HOST: 127.0.0.1                 #WAN IPv4 address
-    LANHOST: 127.0.0.1              #LAN IPv4 address
-    LOCALHOST: 127.0.0.1            #Loopback IPv4 address
+    HOST: 25.53.165.82 #WAN IPv4 address
+    LANHOST: 25.53.165.82 #LAN IPv4 address
+    LOCALHOST: localhost #Loopback IPv4 address
     GMSERVER: false
 
     #Other configuration

@@ -143,7 +143,7 @@ public final class CloseRangeDamageHandler extends AbstractDealDamageHandler {
             int totDamageToOneMonster = 0; // sacrifice attacks only 1 mob with 1 attack
             final Iterator<AttackTarget> dmgIt = attack.targets.values().iterator();
             if (dmgIt.hasNext()) {
-                totDamageToOneMonster = dmgIt.next().damageLines().getFirst();
+                totDamageToOneMonster = dmgIt.next().damageLines().get(0);
             }
 
             chr.safeAddHP(-1 * totDamageToOneMonster * attack.getAttackEffect(chr, null).getX() / 100);
