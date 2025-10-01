@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="grandisHelisium.img">
+<imgdir name="back">
+<canvas name="2" width="404" height="284">
+<vector name="origin" x="202" y="142"/>
+</canvas>
+<canvas name="3" width="785" height="237">
+<vector name="origin" x="392" y="118"/>
+</canvas>
+<canvas name="5" width="23" height="1000">
+<vector name="origin" x="407" y="19"/>
+</canvas>
+<canvas name="6" width="23" height="1500">
+<vector name="origin" x="596" y="54"/>
+</canvas>
+</imgdir>
+</imgdir>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Lach_back.img">
+<imgdir name="back">
+<canvas name="3" width="1357" height="753">
+<vector name="origin" x="678" y="376"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="4" width="1357" height="759">
+<vector name="origin" x="678" y="379"/>
+<int name="z" value="0"/>
+</canvas>
+</imgdir>
+</imgdir>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="GL_WhiteHeaven.img">
+<imgdir name="back">
+<canvas name="32" width="214" height="634">
+<vector name="origin" x="107" y="317"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="33" width="400" height="671">
+<vector name="origin" x="200" y="335"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="34" width="400" height="589">
+<vector name="origin" x="200" y="294"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="35" width="400" height="679">
+<vector name="origin" x="200" y="339"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="36" width="400" height="758">
+<vector name="origin" x="200" y="379"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="37" width="400" height="781">
+<vector name="origin" x="200" y="390"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="38" width="400" height="733">
+<vector name="origin" x="200" y="366"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="39" width="299" height="328">
+<vector name="origin" x="149" y="164"/>
+<int name="z" value="0"/>
+</canvas>
+</imgdir>
+</imgdir>
