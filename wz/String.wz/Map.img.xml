@@ -17736,9 +17736,75 @@
 <string name="streetName" value="Hidden Street"/>
 <string name="mapName" value="Free Market&lt;22&gt;"/>
 </imgdir>
-<imgdir name="910000023">
-<string name="mapName" value="The Gallery"/>
-<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="GoldenTemple">
+<imgdir name="252000000">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Golden Temple"/>
+</imgdir>
+<imgdir name="252010000">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Forest of Training 1"/>
+</imgdir>
+<imgdir name="252010100">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Forest of Training 2"/>
+</imgdir>
+<imgdir name="252010200">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Forest of Training 3"/>
+</imgdir>
+<imgdir name="252010300">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Forest of Training 4"/>
+</imgdir>
+<imgdir name="252020000">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Abandoned Temple"/>
+</imgdir>
+<imgdir name="252020100">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Guardian Room 1"/>
+</imgdir>
+<imgdir name="252020200">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Guardian Room 2"/>
+</imgdir>
+<imgdir name="252020300">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Room of Trials 1"/>
+</imgdir>
+<imgdir name="252020400">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Room of Trials 2"/>
+</imgdir>
+<imgdir name="252020500">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Ascetic Room 1"/>
+</imgdir>
+<imgdir name="252020600">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Ascetic Room 2"/>
+</imgdir>
+<imgdir name="252020700">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Room of Suffering"/>
+</imgdir>
+<imgdir name="252030000">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Entrance to Ravana&apos;s Altar"/>
+</imgdir>
+<imgdir name="252030001">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Ravana&apos;s Altar Tunnel"/>
+</imgdir>
+<imgdir name="252030100">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Ravana&apos;s Golden Altar"/>
+</imgdir>
+<imgdir name="252010400">
+<string name="streetName" value="Golden Temple"/>
+<string name="mapName" value="Snow Fro&apos;s Lair"/>
 </imgdir>
 </imgdir>
 </imgdir>

@@ -5085,14 +5085,11 @@
     </imgdir>
     <imgdir name="9030000">
         <string name="name" value="Fredrick"/>
-        <string name="func" value="Store Banker"/>
-        <string name="s0" value="For everyone that have their employee&apos;s contract expired, come reclaim your items and mesos here!"/>
+        <string name="func" value="Store Manager"/>
+        <string name="s0" value="If your employee&apos;s contract expired, come reclaim your items and mesos here!"/>
     </imgdir>
     <imgdir name="9030100">
-        <string name="name" value="Scrooge"/>
-        <string name="func" value="Storage Keeper"/>
-        <string name="s0" value="Shhh... the items in this safe have never, ever been stolen."/>
-        <string name="s1" value="It is a little expensive, but think of it as the foul-proof way to protect your items."/>
+        <string name="name" value="Storage Box"/>
     </imgdir>
     <imgdir name="9040000">
         <string name="name" value="Shuang"/>
