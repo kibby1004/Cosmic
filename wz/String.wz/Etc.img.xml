@@ -9427,34 +9427,6 @@
 <string name="name" value="MISSING NAME"/>
 <string name="desc" value="MISSING INFO"/>
 </imgdir>
-<imgdir name="4001684">
-<string name="name" value="Sunburst"/>
-<string name="desc" value="Blocks the evil energy spewing from Ravana&apos;s Golden Atlar at the Golden Temple."/>
-</imgdir>
-<imgdir name="4001685">
-<string name="name" value="Well-Kept Keepsake"/>
-<string name="desc" value="A missing monk from the Golden Temple dropped this. Its owner must have been quite fond of it, because it&apos;s sparkling clean."/>
-</imgdir>
-<imgdir name="4001686">
-<string name="name" value="Plain Keepsake"/>
-<string name="desc" value="A missing monk from the Golden Temple dropped this. Its owner must have been a man who did not value material things, because it&apos;s in bad shape."/>
-</imgdir>
-<imgdir name="4001687">
-<string name="name" value="Thought-Provoking Keepsake"/>
-<string name="desc" value="A missing monk from the Golden Temple dropped this. Its owner must have been very wise, because it is covered in writing."/>
-</imgdir>
-<imgdir name="4032602">
-<string name="name" value="Ritaya&apos;s Cell Phone"/>
-<string name="desc" value="Cell phone that belongs to a young lady who came to visit the Golden Temple."/>
-</imgdir>
-<imgdir name="4032603">
-<string name="name" value="Ritaya&apos;s Camera"/>
-<string name="desc" value="Camera that belongs to a young lady who came to visit the Golden Temple."/>
-</imgdir>
-<imgdir name="4032604">
-<string name="name" value="Fresh Lime"/>
-<string name="desc" value="Lime that belongs to Toniza who sells fruits in the Golden Temple."/>
-</imgdir>
 <imgdir name="4000559">
 <string name="name" value="White Baby Monkey Tail"/>
 <string name="desc" value="Tail of a White Baby Monkey."/>
@@ -9483,13 +9455,45 @@
 <string name="name" value="Stone Goblin&apos;s Red Underwear"/>
 <string name="desc" value="A pair of red underwear that the Stone Goblin was wearing."/>
 </imgdir>
-<imgdir name="4033177">
-<string name="name" value="GPS Tour Guide"/>
-<string name="desc" value="Location tracker created for tourists."/>
+<imgdir name="4001685">
+<string name="name" value="Well-Kept Keepsake"/>
+<string name="desc" value="A missing monk from the Golden Temple dropped this. Its owner must have been quite fond of it, because it&apos;s sparkling clean."/>
+</imgdir>
+<imgdir name="4001686">
+<string name="name" value="Plain Keepsake"/>
+<string name="desc" value="A missing monk from the Golden Temple dropped this. Its owner must have been a man who did not value material things, because it&apos;s in bad shape."/>
+</imgdir>
+<imgdir name="4001687">
+<string name="name" value="Thought-Provoking Keepsake"/>
+<string name="desc" value="A missing monk from the Golden Temple dropped this. Its owner must have been very wise, because it is covered in writing."/>
+</imgdir>
+<imgdir name="4001684">
+<string name="name" value="Sunburst"/>
+<string name="desc" value="Blocks the evil energy spewing from Ravana&apos;s Golden Atlar at the Golden Temple."/>
+</imgdir>
+<imgdir name="4000677">
+<string name="name" value="Strong Stone Goblin Crown"/>
+<string name="desc" value="Strong Stone Goblins wear this heavy crown to look powerful."/>
+</imgdir>
+<imgdir name="4032602">
+<string name="name" value="Ritaya&apos;s Cell Phone"/>
+<string name="desc" value="Cell phone that belongs to a young lady who came to visit the Golden Temple."/>
+</imgdir>
+<imgdir name="4032603">
+<string name="name" value="Ritaya&apos;s Camera"/>
+<string name="desc" value="Camera that belongs to a young lady who came to visit the Golden Temple."/>
+</imgdir>
+<imgdir name="4032604">
+<string name="name" value="Fresh Lime"/>
+<string name="desc" value="Lime that belongs to Toniza who sells fruits in the Golden Temple."/>
 </imgdir>
 <imgdir name="4033175">
 <string name="name" value="Master Loong&apos;s Rosary"/>
 <string name="desc" value="Wooden rosary that Master Loong carried around. It was found in Forest of Training."/>
+</imgdir>
+<imgdir name="4033177">
+<string name="name" value="GPS Tour Guide"/>
+<string name="desc" value="Location tracker created for tourists."/>
 </imgdir>
 </imgdir>
 </imgdir>

@@ -17807,4 +17807,138 @@
 <string name="mapName" value="Snow Fro&apos;s Lair"/>
 </imgdir>
 </imgdir>
+<imgdir name="Alishan">
+<imgdir name="749080900">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Leshan"/>
+</imgdir>
+<imgdir name="749080901">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Plains 1"/>
+</imgdir>
+<imgdir name="749080902">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Plains 2"/>
+</imgdir>
+<imgdir name="749080903">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Plains 3"/>
+</imgdir>
+<imgdir name="749080904">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Train Station"/>
+</imgdir>
+<imgdir name="749080931">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Plains 1"/>
+</imgdir>
+<imgdir name="749080932">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Plains 2"/>
+</imgdir>
+<imgdir name="749080933">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Plains 3"/>
+</imgdir>
+<imgdir name="749080940">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080960">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080970">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080980">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080990">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080991">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080992">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080993">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080994">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080995">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080996">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080997">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080998">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749080999">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749081000">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Road to the Summit"/>
+</imgdir>
+<imgdir name="749081010">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Road to the Summit"/>
+</imgdir>
+<imgdir name="749081020">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Road to the Summit"/>
+</imgdir>
+<imgdir name="749081030">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Road to the Summit"/>
+</imgdir>
+<imgdir name="749081040">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Road to the Summit"/>
+</imgdir>
+<imgdir name="749081050">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Summit"/>
+</imgdir>
+<imgdir name="749081060">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Summit"/>
+</imgdir>
+<imgdir name="749081070">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749081080">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749081090">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Forest Train"/>
+</imgdir>
+<imgdir name="749081110">
+<string name="streetName" value="Alishan"/>
+<string name="mapName" value="Alishan Summit"/>
+</imgdir>
+</imgdir>
 </imgdir>
